@@ -1,0 +1,8 @@
+name: "mindbox"
+displayName: "test for you."
+author: coreworldy
+description: "never give up."
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
